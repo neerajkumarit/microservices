@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mithaas.Web.props" />
+</Project>
