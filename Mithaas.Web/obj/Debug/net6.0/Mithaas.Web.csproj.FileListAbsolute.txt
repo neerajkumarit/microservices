@@ -29,3 +29,5 @@ C:\prjs\training\microservices\MithaasRestaurantApp\MithaasRestaurant\Mithaas.We
 C:\prjs\training\microservices\MithaasRestaurantApp\MithaasRestaurant\Mithaas.Web\obj\Debug\net6.0\Mithaas.Web.pdb
 C:\prjs\training\microservices\MithaasRestaurantApp\MithaasRestaurant\Mithaas.Web\obj\Debug\net6.0\Mithaas.Web.genruntimeconfig.cache
 C:\prjs\training\microservices\MithaasRestaurantApp\MithaasRestaurant\Mithaas.Web\obj\Debug\net6.0\ref\Mithaas.Web.dll
+C:\prjs\training\microservices\MithaasRestaurantApp\MithaasRestaurant\Mithaas.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\prjs\training\microservices\MithaasRestaurantApp\MithaasRestaurant\Mithaas.Web\obj\Debug\net6.0\Mithaas.Web.csproj.CopyComplete
